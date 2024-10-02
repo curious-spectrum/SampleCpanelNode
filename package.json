@@ -1,0 +1,24 @@
+{
+  "name": "node_cpanel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deltaxpr-Nish",
+  "license": "ISC",
+  "description": "Sample Node Application With Cpanel Deployment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curious-spectrum/SampleCpanelNode.git"
+  },
+  "keywords": [
+    "cpanel",
+    "node",
+    "deployment"
+  ],
+  "bugs": {
+    "url": "https://github.com/curious-spectrum/SampleCpanelNode/issues"
+  },
+  "homepage": "https://github.com/curious-spectrum/SampleCpanelNode#readme"
+}
